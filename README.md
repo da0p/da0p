@@ -1,6 +1,7 @@
 # Hello :wave:, I am Phuong Dao
 [![Linkedin: phuongdao](https://img.shields.io/badge/-phuongdao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phuong-dao-59b60689/)](https://www.linkedin.com/in/phuong-dao-59b60689/)
 [![GitHub da0p](https://img.shields.io/github/followers/da0p?label=follow&style=social)](https://github.com/da0p)
+![GitHub views counter](https://komarev.com/ghpvc/?username=da0p)
 - An Embedded Software Engineer :sparkles:
 
 # About me
